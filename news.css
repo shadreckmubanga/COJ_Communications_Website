@@ -53,12 +53,13 @@ body{
 .news_image img{
     width: 800px;
     padding-left: 300px;
+    padding-top: 20px;
 
 }
 
 .news_image h2{
     text-align: center;
-    color: black;
+    color: rgb(131, 72, 72);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
