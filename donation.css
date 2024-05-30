@@ -8,10 +8,11 @@ body {
 
  #payment{
     text-align: center;
-    color: brown;
+    color: #5164a6;
     margin-top: 40px;
     font-size: 2em;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
  }
 
 
@@ -22,10 +23,24 @@ body {
     margin: auto auto;
     column-gap: 30px;
     margin-top: 50px;
-    background-color: rgb(49, 110, 49);
+    background-color: rgb(160, 134, 134);
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 20px;
+}
+
+.services2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 700px;
+    margin: auto auto;
+    column-gap: 30px;
+    margin-top: 50px;
+    background-color: rgb(89, 78, 78);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+
 }
 
 .sev1 img{
@@ -40,6 +55,11 @@ body {
   padding-left: 50px;
   color: white;
   text-decoration: none;
+}
+
+.sev1 p{
+  color: whitesmoke;
+  font-style: italic;
 }
 
 
